@@ -1,6 +1,8 @@
 Book Nexus Library Management System
 
 Book Nexus Library Management System is a comprehensive tool designed to streamline library operations, including book searching, borrowing, returning, fine calculation, reminders, and transaction tracking. This system ensures efficient management of library resources and enhances the user experience.
+
+
 📚 Features
 
     Book Search: Quickly locate books by title, author, or genre.
@@ -21,6 +23,7 @@ Navigate to the project directory:
 
     Follow the setup instructions in the project documentation to configure dependencies and run the system.
 
+
 📄 Usage
 
     Start the application and log in as an admin or user.
@@ -33,6 +36,7 @@ Navigate to the project directory:
     data/: Stores database files for book and user records.
     docs/: Includes additional project documentation.
     tests/: Contains test cases for system reliability.
+
 
 🛡️ License
 
