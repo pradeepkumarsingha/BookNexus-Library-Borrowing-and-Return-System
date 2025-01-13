@@ -13,7 +13,7 @@ Book Nexus Library Management System is a comprehensive tool designed to streaml
 
     Clone the repository:
 
-git clone https://github.com/your-username/BookNexus-Library-Management-System.git
+git clone https://github.com/pradeepkumarsingha/BookNexus-Library-Management-System.git
 
 Navigate to the project directory:
 
@@ -43,4 +43,4 @@ Contributions are welcome! Please create a pull request or open an issue to sugg
 📞 Contact
 
 For questions or support, feel free to reach out:
-📧 Email: your-email@example.com
+📧 Email: pradeepkumarsingha@gmail.com
