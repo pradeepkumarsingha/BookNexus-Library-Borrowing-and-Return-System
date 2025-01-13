@@ -40,7 +40,7 @@ This project is licensed under the MIT License.
 🤝 Contributing
 
 Contributions are welcome! Please create a pull request or open an issue to suggest improvements.
-📞 Contact
+📞 Contact:7855900487
 
 For questions or support, feel free to reach out:
-📧 Email: pradeepkumarsingha@gmail.com
+📧 Email: mr.pradeepkumarsingha@gmail.com
