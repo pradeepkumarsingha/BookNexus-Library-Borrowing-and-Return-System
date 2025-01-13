@@ -15,7 +15,7 @@ Book Nexus Library Management System is a comprehensive tool designed to streaml
 
     Clone the repository:
 
-git clone https://github.com/pradeepkumarsingha/BookNexus-Library-Management-System.git
+git clone https://github.com/pradeepkumarsingha/BookNexus-Library-Borrowing-and-Return-System.git
 
 Navigate to the project directory:
 
@@ -41,9 +41,11 @@ Navigate to the project directory:
 🛡️ License
 
 This project is licensed under the MIT License.
+
 🤝 Contributing
 
 Contributions are welcome! Please create a pull request or open an issue to suggest improvements.
+
 📞 Contact:7855900487
 
 For questions or support, feel free to reach out:
